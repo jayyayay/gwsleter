@@ -76,8 +76,9 @@ body {
 }
 
 .letter p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: center;
-font-size: 30px;
+font-size: 25px;
 margin-top: 30px;
 color: #3b4049;
 }
